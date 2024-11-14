@@ -23,6 +23,7 @@ Library: C:\Users\Edu\Desktop\Programanding\2do Año\MP13 Projecte\WanderingShad
 --assembly-defines=Unity.Timeline;
 --assembly-defines=Unity.InputSystem;
 --assembly-defines=Unity.InputSystem.ForUI;
+--assembly-defines=Unity.PlayerPrefsEditor.Samples.SampleScene;
 --assembly-defines=Unity.Mathematics;
 --assembly-defines=Unity.VisualScripting.State;
 --assembly-defines=Cinemachine;
@@ -94,6 +95,7 @@ Library: C:\Users\Edu\Desktop\Programanding\2do Año\MP13 Projecte\WanderingShad
 --assembly-defines=Unity.Timeline;
 --assembly-defines=Unity.InputSystem;
 --assembly-defines=Unity.InputSystem.ForUI;
+--assembly-defines=Unity.PlayerPrefsEditor.Samples.SampleScene;
 --assembly-defines=Unity.Mathematics;
 --assembly-defines=Unity.VisualScripting.State;
 --assembly-defines=Cinemachine;
